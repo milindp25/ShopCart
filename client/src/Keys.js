@@ -1,0 +1,3 @@
+const STRIPE_PUBLIC_KEY ='pk_test_51KBXHfSBwh4u0lUlJLqFxEpGmsqJACNvwza42bcJGCyLFYKQ4ulbxdW8nk6zKOj9ng3o0IYcGd5XNGDHtZo9flDg00ra0XVYcV';
+
+module.exports = STRIPE_PUBLIC_KEY;
